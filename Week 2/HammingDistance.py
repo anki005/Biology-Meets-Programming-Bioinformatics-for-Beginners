@@ -10,8 +10,3 @@ def HammingDistance(p, q):
 p='CTTGAAGTGGACCTCTAGTTCCTCTACAAAGAACAGGTTGACCTGTCGCGAAG'
 q='ATGCCTTACCTAGATGCAATGACGGACGTATTCCTTTTGCCTCAACGGCTCCT'
 print(HammingDistance(p,q))
-'''
-a=list(range(5))
-b=a
-a[2]=12
-print(b)'''
